@@ -1,0 +1,7 @@
+Can you please help me? Not sure what I am doing wrong but when I try to run the plugin on my KFX format book it fails to work. This is the message I'm getting: 
+
+
+
+
+  ERROR: Failed building wheel for numpy
+ERROR: Could not build wheels for numpy, which is required to install pyproject.toml-based projectserriding currently unsupported use of floating point exceptions on this target [-Wunsupported-floating-point-opt]
